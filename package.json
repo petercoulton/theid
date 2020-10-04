@@ -10,19 +10,34 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:theid.newUuid",
-		"onCommand:theid.newObjectId"
+		"onCommand:theid.newUuidV1",
+		"onCommand:theid.newUuidV4",
+		"onCommand:theid.newObjectId",
+		"onCommand:theid.newEpochId",
+		"onCommand:theid.newEpochMillisId"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "theid.newUuid",
-				"title": "Generate new v4 UUID"
+				"command": "theid.newUuidV1",
+				"title": "Generate new v1 UUID (MAC address)"
+			},
+			{
+				"command": "theid.newUuidV4",
+				"title": "Generate new v4 UUID (random)"
 			},
 			{
 				"command": "theid.newObjectId",
 				"title": "Generate new ObjectId"
+			},
+			{
+				"command": "theid.newEpochId",
+				"title": "Generate new Epoch (seconds)"
+			},
+			{
+				"command": "theid.newEpochMillisId",
+				"title": "Generate new Epoch (millis)"
 			}
 		]
 	},
