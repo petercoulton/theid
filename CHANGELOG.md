@@ -1,9 +1,19 @@
 # Change Log
 
-All notable changes to the "theid" extension will be documented in this file.
+All notable changes to the "theid" extension will be documented in this file, following [these recommendations](http://keepachangelog.com/).
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.2
 
-## [Unreleased]
+### Added
+- UUID v1
+- Epoch seconds
+- Epoch milliseconds.
 
-- Initial release
+## 0.0.1
+
+Initial release.
+
+### Added
+
+- UUID v4
+- ObjectID (e.g. MongoDB)
