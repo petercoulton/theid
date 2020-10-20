@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2020-10-20
+
+### Added
+
+- Marketplace icon from [@ashatch](https://github.com/ashatch)
+
 ## [0.0.3] - 2020-10-19
 
 ### Added
@@ -29,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/0.0.3...HEAD
+[0.0.4]: https://github.com/petercoulton/theid/releases/tag/0.0.4
 [0.0.3]: https://github.com/petercoulton/theid/releases/tag/0.0.3
 [0.0.2]: https://github.com/petercoulton/theid/releases/tag/0.0.2
 [0.0.1]: https://github.com/petercoulton/theid/releases/tag/0.0.1

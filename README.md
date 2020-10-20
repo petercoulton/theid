@@ -27,4 +27,9 @@ Adds useful ID generators to VS Code:
 ### 0.0.3
 
 + Update README
-+ 
+
+### 0.0.4
+
++ Add Marketplace icon from [@ashatch](https://github.com/ashatch)
+
+See [CHANGELOG.md](CHANGELOG.md) for detailed release notes.
