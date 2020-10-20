@@ -1,6 +1,20 @@
 # theid
 
-This is the README for your extension "theid". After writing up a brief description, we recommend including the following sections.
+VS Code extension `theid` is a contraction of `the id`. It is an
+ID generator. Useful for generating IDs such as UUIDs.
+
+Check the release notes below for the list of what IDs can be
+generated.
+
+---------------------------
+
+## Features
+
+Adds useful ID generators to VS Code:
+
+![Commands](docs/images/commands.png)
+
+---------------------------
 
 ## Release Notes
 
@@ -13,4 +27,3 @@ This is the README for your extension "theid". After writing up a brief descript
 + More generators added by [@ashatch](https://github.com/ashatch)
   + v1 UUIDs
   + Epoch in millis and seconds
-
