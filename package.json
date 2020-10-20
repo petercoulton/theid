@@ -2,7 +2,7 @@
 	"name": "theid",
 	"displayName": "theid",
 	"description": "",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "petercoulton",
 	"engines": {
 		"vscode": "^1.48.0"
