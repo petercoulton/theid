@@ -1,6 +1,6 @@
 # theid
 
-This is the README for your extension "theid". After writing up a brief description, we recommend including the following sections.
+Collection of generators for various common ids.
 
 ## Release Notes
 
@@ -14,3 +14,7 @@ This is the README for your extension "theid". After writing up a brief descript
   + v1 UUIDs
   + Epoch in millis and seconds
 
+### 0.0.3
+
++ Update README
++ 
