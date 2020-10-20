@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2020-10-20
+
+- Add Marketplace icon from [@ashatch](https://github.com/ashatch)
+
 ## [0.0.3] - 2020-10-19
 
 ### Added
