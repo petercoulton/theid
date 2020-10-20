@@ -32,3 +32,4 @@ Adds useful ID generators to VS Code:
 
 + Add Marketplace icon from [@ashatch](https://github.com/ashatch)
 
+See [CHANGELOG.md](CHANGELOG.md) for detailed release notes.
