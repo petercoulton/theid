@@ -7,8 +7,10 @@
 	"engines": {
 		"vscode": "^1.48.0"
 	},
+	"icon": "images/icon.png",
 	"repository": {
-		"url": "https://github.com/petercoulton/theid"
+		"type": "git",
+		"url": "https://https://github.com/petercoulton/theid.git"
 	},
 	"categories": [
 		"Other"
